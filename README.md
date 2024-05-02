@@ -38,4 +38,4 @@ public class Main {
 - No `hexa`/`bghexa` function, but there is a `dec`/`bgdec` function that only takes integers (you can use `0x` followed by your hex code without any quotes to use HEX codes as shown in the code example)
 
 
-If it doesn't work then try using OpenJDK 21. If that doesn't work I'm probably just stupid (open an issue or fix it for me and open a PR :3 :3 :3 pls fix it for me i am so clueless). 
+If it doesn't work then try using Java 21. If that doesn't work I'm probably just stupid (open an issue or fix it for me and open a PR :3 :3 :3 pls fix it for me i am so clueless). 
