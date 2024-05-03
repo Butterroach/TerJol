@@ -36,6 +36,7 @@ public class Main {
 
 - No aliases at all
 - No `hexa`/`bghexa` function, but there is a `dec`/`bgdec` function that only takes integers (you can use `0x` followed by your hex code without any quotes to use HEX codes as shown in the code example)
+- `bgrainbowtext` function that doesn't exist in the original TerCol
 
 
 If it doesn't work then try using JDK 21. If that doesn't work I'm probably just stupid (open an issue or fix it for me and open a PR :3 :3 :3 pls fix it for me i am so clueless). 
