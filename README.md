@@ -1,12 +1,12 @@
 # terjol
 
-motherfucking terjol what the fuck
+terjol
 
 ***
 
 TerJol is a port of [TerCol](https://github.com/Butterroach/tercol) for Java.
 
-THIS IS MY 3RD EVER JAVA THING GOD PLEASE SPARE ME
+THIS IS MY 3RD EVER JAVA THING PLEASE SPARE ME
 
 ## Code example
 
